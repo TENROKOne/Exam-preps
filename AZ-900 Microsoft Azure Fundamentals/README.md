@@ -41,7 +41,7 @@ https://learn.microsoft.com/nl-nl/credentials/certifications/resources/study-gui
 - Describe the resources required for virtual machines
 - Describe application hosting options, including web apps, containers, and virtual machines
 - Describe virtual networking, including the purpose of Azure virtual networks, Azure virtual subnets, peering, Azure DNS, Azure VPN Gateway, and ExpressRoute
-- Define public and private endpoints
+- [Define public and private endpoints](define-public-and-private-endpoints.md)
 ### Describe Azure storage services
 - Compare Azure Storage services
 - Describe storage tiers
