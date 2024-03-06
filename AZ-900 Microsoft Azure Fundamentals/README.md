@@ -42,11 +42,11 @@ https://learn.microsoft.com/nl-nl/credentials/certifications/resources/study-gui
 - Describe application hosting options, including web apps, containers, and virtual machines
 - Describe virtual networking, including the purpose of Azure virtual networks, Azure virtual subnets, peering, Azure DNS, Azure VPN Gateway, and ExpressRoute
 - [Define public and private endpoints](define-public-and-private-endpoints.md)
-### Describe Azure storage services
+### [Describe Azure storage services](describe-azure-storage-services.md)
 - Compare Azure Storage services
 - Describe storage tiers
 - Describe redundancy options
-- Describe storage account options and storage types
+- [Describe storage account options and storage types](describe-storage-account-options-and-storage-types.md)
 - Identify options for moving files, including AzCopy, Azure Storage Explorer, and Azure File Sync
 - Describe migration options, including Azure Migrate and Azure Data Box
 ### Describe Azure identity, access, and security
@@ -78,3 +78,11 @@ https://learn.microsoft.com/nl-nl/credentials/certifications/resources/study-gui
 - Describe the purpose of Azure Advisor
 - Describe Azure Service Health
 - Describe Azure Monitor, including Log Analytics, Azure Monitor alerts, and Application Insights
+
+TODO:
+- Describe the benefits and usage of Cosmos DB, Azure SQL Database, Azure Database for MySQL, Azure Database for PostgreSQL, and SQL Managed Instance
+(Describe the benefits and usage of Azure Marketplace)[describe-the-benefits-and-usage-of-azure-marketplace.md]
+
+(Describe the benefits and usage of Internet of Things (IoT) Hub, IoT Central, and Azure Sphere)[describe-the-benefits-and-usage-of-internet-of-things-hub-IoT-Central-and-szure-sphere.md]
+
+(Benefits and Usage of Big Data and Analytics Services)[benefits-and-usage-of-big-data-and-analytics-services.md]
