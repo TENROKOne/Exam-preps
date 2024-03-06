@@ -86,3 +86,7 @@ TODO:
 (Describe the benefits and usage of Internet of Things (IoT) Hub, IoT Central, and Azure Sphere)[describe-the-benefits-and-usage-of-internet-of-things-hub-IoT-Central-and-szure-sphere.md]
 
 (Benefits and Usage of Big Data and Analytics Services)[benefits-and-usage-of-big-data-and-analytics-services.md]
+
+(Benefits and Usage of AI Services)[benefits-and-usage-of-ai-aervices.md]
+
+(Benefits and Usage of Serverless Technologies)[benefits-and-usage-of-serverless-technologies.md]
