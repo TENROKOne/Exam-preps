@@ -75,7 +75,7 @@ https://learn.microsoft.com/nl-nl/credentials/certifications/resources/study-gui
 - Describe infrastructure as code (IaC)
 - Describe Azure Resource Manager (ARM) and ARM templates
 ### Describe monitoring tools in Azure
-- Describe the purpose of Azure Advisor
+- (Describe the purpose of Azure Advisor)[describe-the-purpose-of-azure-advisor.md]
 - Describe Azure Service Health
 - Describe Azure Monitor, including Log Analytics, Azure Monitor alerts, and Application Insights
 
@@ -90,3 +90,8 @@ TODO:
 (Benefits and Usage of AI Services)[benefits-and-usage-of-ai-aervices.md]
 
 (Benefits and Usage of Serverless Technologies)[benefits-and-usage-of-serverless-technologies.md]
+
+(Describe the benefits and usage of Azure DevOps, GitHub, GitHub Actions, and Azure DevTest Labs)[benefits-and-usage-of-devops-technologies.md]
+
+(Describe the functionality and usage of the Azure Portal, Azure PowerShell, Azure CLI, Cloud Shell, and Azure Mobile App)
+[functionality-of-azure-management-solutions.md]
