@@ -14,59 +14,9 @@ https://learn.microsoft.com/nl-nl/credentials/certifications/resources/study-gui
 
 ### 1. Describe cloud computing
 
-1.1 Define cloud computing
-    - Providing computer services over the internet
-    - Computer, Networking and Storage
-    - Benefids of the cloud:
-        - High availability
-            - SLA (Guarantee about the uptime from MS to the customer)
-        - Elasticity
-            - Increase / decrease capacity when you need 
-        - Scalability
-            - Horizontal 
-                - Scale out
-                - Adding more servers
-            - Vertical
-                - Scale up
-                - Adding more resource to a single server
-        - Reliability
-            - Time it takes to get data available while an outage occurs 
-        - Predictability
-            - See what you use and predict what you need
-        - Security
-            - Datacenter security is managed by microsoft
-        - Governance
-            - Azure Policies
-        - Manageability
-1.2 Describe the shared responsibility model
-    - Customer
-        - Information and data
-        - Devices
-        - Accounts and identities
-    - On-prem
-        - Customer is responsible
-    - IaaS
-        - Microsoft 
-            - does less you do more
-            - Microsoft provides Datacenter, Servers and Storage, Networking (firewall en security)
-        - Customer
-            - Managing the VM and installing updates etc is your responsibility
-        - Infrastructure migration / lift and shift model
-    - PaaS
-        - Microsoft
-            - Operating systems, patching etc
-            - Management tools
-        - Customer
-            - Does not have to focus on the underlying infrastructure
-            - Build the application and deploy and update
-        - Example: App Services
-    - SaaS
-        - Microsoft
-            - Manage the infrastructure and application updates and security
-        - Customer
-            - Specific settings and data input
-        - Example: Outlook, excel powerpoint etc.
-1.3 Define cloud models, including public, private, and hybrid
+- [Define cloud computing](1.1-cloud-computing.md)
+- [Describe the shared responsibility model](1.2-shared-responsibility-model.md)
+- Define cloud models, including public, private, and hybrid
     - Private Cloud
         - Is like an onprem cloud, you need to manage everything yourself, like updates and hardware maintenance
         - You have to buy servers in forehand (capex)
@@ -84,10 +34,10 @@ https://learn.microsoft.com/nl-nl/credentials/certifications/resources/study-gui
         - Spend as you need is
         - Get billed immediately
     Operational cost
-1.4 Identify appropriate use cases for each cloud model
-1.5 Describe the consumption-based model
+- Identify appropriate use cases for each cloud model
+- Describe the consumption-based model
     - Pay for what you actually using
-1.6 Compare cloud pricing models
+- Compare cloud pricing models
     - Azure account (privided by a company)
     - Azure free account
         - 12 months free
@@ -95,7 +45,7 @@ https://learn.microsoft.com/nl-nl/credentials/certifications/resources/study-gui
         - Need creditcard
     - Azure free student account
     - Microsoft Learn sandbox (search AZ-900 azure learn sandbox)
-1.7 (Describe serverless)
+- (Describe serverless)[1-serverless.md]
 
 ### Describe the benefits of using cloud services
 
