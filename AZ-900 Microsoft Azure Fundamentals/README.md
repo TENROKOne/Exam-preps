@@ -12,9 +12,9 @@ https://learn.microsoft.com/nl-nl/credentials/certifications/resources/study-gui
 
 ## Describe cloud concepts (25–30%)
 
-### Describe cloud computing
+### 1. Describe cloud computing
 
-- Define cloud computing
+1.1 Define cloud computing
     - Providing computer services over the internet
     - Computer, Networking and Storage
     - Benefids of the cloud:
@@ -38,7 +38,7 @@ https://learn.microsoft.com/nl-nl/credentials/certifications/resources/study-gui
         - Governance
             - Azure Policies
         - Manageability
-- Describe the shared responsibility model
+1.2 Describe the shared responsibility model
     - Customer
         - Information and data
         - Devices
@@ -66,7 +66,7 @@ https://learn.microsoft.com/nl-nl/credentials/certifications/resources/study-gui
         - Customer
             - Specific settings and data input
         - Example: Outlook, excel powerpoint etc.
-- Define cloud models, including public, private, and hybrid
+1.3 Define cloud models, including public, private, and hybrid
     - Private Cloud
         - Is like an onprem cloud, you need to manage everything yourself, like updates and hardware maintenance
         - You have to buy servers in forehand (capex)
@@ -84,7 +84,10 @@ https://learn.microsoft.com/nl-nl/credentials/certifications/resources/study-gui
         - Spend as you need is
         - Get billed immediately
     Operational cost
-- Identify appropriate use cases for each cloud model
+1.4 Identify appropriate use cases for each cloud model
+1.5 Describe the consumption-based model
+    - Pay for what you actually using
+1.6 Compare cloud pricing models
     - Azure account (privided by a company)
     - Azure free account
         - 12 months free
@@ -92,10 +95,7 @@ https://learn.microsoft.com/nl-nl/credentials/certifications/resources/study-gui
         - Need creditcard
     - Azure free student account
     - Microsoft Learn sandbox (search AZ-900 azure learn sandbox)
-- Describe the consumption-based model
-    - Pay for what you actually using
-- Compare cloud pricing models
-- Describe serverless
+1.7 (Describe serverless)
 
 ### Describe the benefits of using cloud services
 
