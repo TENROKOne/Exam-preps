@@ -1,6 +1,8 @@
 # [Skills at a glance](https://learn.microsoft.com/nl-nl/credentials/certifications/resources/study-guides/az-104)
 
 - Manage Azure identities and governance (20–25%)
+
+  - 
 - Implement and manage storage (15–20%)
 - Deploy and manage Azure compute resources (20–25%)
 - Implement and manage virtual networking (15–20%)
@@ -11,6 +13,7 @@
 ## Manage Microsoft Entra users and groups
 
 - Create users and groups
+   - [Lab](https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_01-Manage_Entra_ID_Identities.html)
 - Manage user and group properties
 - Manage licenses in Microsoft Entra ID
 - Manage external users
