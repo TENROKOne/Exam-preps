@@ -1,4 +1,4 @@
-# (Skills at a glance)[https://learn.microsoft.com/nl-nl/credentials/certifications/resources/study-guides/az-104] 
+# [Skills at a glance](https://learn.microsoft.com/nl-nl/credentials/certifications/resources/study-guides/az-104)
 
 - Manage Azure identities and governance (20–25%)
 - Implement and manage storage (15–20%)
