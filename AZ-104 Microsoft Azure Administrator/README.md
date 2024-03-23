@@ -154,6 +154,9 @@ In addition, you should have experience with:
 
 - Create and configure virtual networks and subnets
 - Create and configure virtual network peering
+     - Peering connects Azure Vnets over the MS backbone
+     - Private peering connects onprem networks to Azure over the MS backbone through Express Route using connection points
+     - Global peering Connects onnprem networks to eachother over the MS backbone using connection points
 - Configure public IP addresses
 - Configure user-defined network routes
 - Troubleshoot network connectivity
