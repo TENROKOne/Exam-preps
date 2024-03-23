@@ -35,7 +35,7 @@ In addition, you should have experience with:
       - https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_02b-Manage_Governance_via_Azure_Policy.html
 - Implement and manage storage (15–20%)
    - https://learn.microsoft.com/en-us/training/paths/az-104-manage-storage/
-     **Labs:**
+     - **Labs:**
       - https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_07-Manage_Azure_Storage.html
 - Deploy and manage Azure compute resources (20–25%)
    - https://learn.microsoft.com/en-us/training/paths/az-104-manage-compute-resources/
