@@ -7,17 +7,26 @@ As an Azure administrator, you often serve as part of a larger team dedicated to
 You should be familiar with:
 
 - Operating systems
+      - https://en.wikipedia.org/wiki/Operating_system
 - Networking
+      - https://en.wikipedia.org/wiki/Computer_network
 - Servers
+      - https://en.wikipedia.org/wiki/Server_(computing)
 - Virtualization
+      - https://en.wikipedia.org/wiki/Virtualization
 
 In addition, you should have experience with:
 
 - PowerShell
+      - https://www.youtube.com/watch?v=RQMdJ-9-lxY
 - Azure CLI
+      - https://www.youtube.com/watch?v=DOywwse_j8I
 - The Azure portal
+      - https://www.youtube.com/watch?v=leJRc0JWzSY&
 - Azure Resource Manager templates
+      - https://www.youtube.com/watch?v=loxcA5MUf-I
 - Microsoft Entra ID
+      - https://www.youtube.com/watch?v=bSIF_GjaCmo
 
 # Skills at a glance
 
