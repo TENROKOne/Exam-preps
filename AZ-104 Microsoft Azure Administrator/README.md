@@ -80,7 +80,7 @@ In addition, you should have experience with:
 
 ## Implement and manage storage (15–20%)
 
-###Configure access to storage
+### Configure access to storage
 
 - Configure Azure Storage firewalls and virtual networks
 - Create and use shared access signature (SAS) tokens
@@ -107,7 +107,7 @@ In addition, you should have experience with:
 
 ## Deploy and manage Azure compute resources (20–25%)
 
-###Automate deployment of resources by using Azure Resource Manager (ARM) templates or Bicep files
+### Automate deployment of resources by using Azure Resource Manager (ARM) templates or Bicep files
 
 - Interpret an Azure Resource Manager template or a Bicep file
 - Modify an existing Azure Resource Manager template
