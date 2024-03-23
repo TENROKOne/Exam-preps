@@ -29,7 +29,7 @@ In addition, you should have experience with:
 
 - Manage Azure identities and governance (20–25%)
    - https://learn.microsoft.com/en-us/training/paths/az-104-manage-identities-governance/
-     **Labs:**
+   - **Labs:**
       - https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_01-Manage_Entra_ID_Identities.html
       - https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_02a_Manage_Subscriptions_and_RBAC_Entra.html
       - https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_02b-Manage_Governance_via_Azure_Policy.html
