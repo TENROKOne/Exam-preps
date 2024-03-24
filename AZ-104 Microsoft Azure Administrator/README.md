@@ -59,7 +59,7 @@ In addition, you should have experience with:
 
 ## Manage Azure identities and governance (20–25%)
 
-### Manage Microsoft Entra users and groups
+[### Manage Microsoft Entra users and groups](https://learn.microsoft.com/en-us/training/modules/configure-azure-active-directory/)
 
 - Create users and groups
 - Manage user and group properties
