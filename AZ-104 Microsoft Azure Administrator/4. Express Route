@@ -1,0 +1,9 @@
+## Espress route models
+- Colocated at a cloud exchange
+  -  Layer 2 cross-connections or managed Layer 3 cross-connections
+- Point-to-point Ethernet connections
+- Any-to-any (IPVPN) networks
+  - Interconnected to your WAN to make it appear like any other branch office.
+  - Managed Layer 3
+- Direct from ExpressRoute sites
+  - Connect directly into the Microsoft global network at a peering location strategically distributed across the world
