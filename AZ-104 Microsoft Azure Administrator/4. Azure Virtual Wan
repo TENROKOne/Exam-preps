@@ -1,0 +1,9 @@
+# Azure Virtual WAN
+- Basic & Standard SKU
+- Basic SKU:
+  - Only Site2Site VPN
+- Standaard SKU:
+  - S2S VPN
+  - Express Route
+  - VNET inter-Hub Transition
+  - Can connect to other Vwans
