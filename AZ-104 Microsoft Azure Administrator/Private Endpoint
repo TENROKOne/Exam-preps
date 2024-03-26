@@ -1,0 +1,5 @@
+# Private Endpoints
+- Creates a IP in a Subnet
+- Needs a private DNS Zone with an privatelink scope
+- Access from other vlans, or onprem, to this IP is possible
+- no need to allow the whole subnet in the resource
