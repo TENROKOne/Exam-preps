@@ -1,0 +1,6 @@
+# private link service
+
+- No need to peer networks
+- connect a peer link to a load balancer
+- adds an private ip in the destination subnet
+- uses NAT, so can be used in case of an overlapping subnet
