@@ -8,6 +8,15 @@
 - Deploy resources by using an Azure Resource Manager template or a Bicep file
 - Export a deployment as an Azure Resource Manager template or convert an Azure Resource Manager template to a Bicep file
 
+- Provisioning
+  - Don't use the portal, CLI and Powershell for Provisioning.
+  - ARM JSON Templates
+    - Good source is the github page from MS with the quickstart templates
+    - You can export a resource from the portal with the export template option.
+    - Are not very human friendly
+  - Azure Bicep (translates to ARM JSON)
+  - Terraform (translates to ARM JSON)
+
 ## Create and configure virtual machines
 
 - Create a virtual machine
